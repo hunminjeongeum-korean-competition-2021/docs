@@ -25,7 +25,7 @@
 - [문제3 음성 인식(명령어)](#문제-3-음성인식-명령어-dataset-설명)
 - [문제4 음성 인식(자유대화)](#문제-4-음성인식-자유대화-dataset-설명)
 
-[Custom Docker Image 설명](https://github.com/hunminjeongeum-korean-competition-2021/docs/blob/main/DockImage.md)
+[Custom Docker Image 설명](https://github.com/hunminjeongeum-korean-competition-2021/docs/blob/main/DockerImage.md)
 
 [BaseLine Code]()
 
