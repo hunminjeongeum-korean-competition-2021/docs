@@ -67,13 +67,13 @@ RUN pip install -r requirements.txt
 # Docker Image Build
 
 ```shell
-# dockerhub login (docker image을 push하기 위함)
+# dockerhub login (docker image를 push하기 위함)
 $ docker login
 
-# docker fild build
+# build docker image
 $ docker build -t daconDevTeam/nsml-nia-competiton .
 
-# docker iamge push to dockerhub
+# push docker to dockerhub
 docker push daconDevTeam/nsml-nia-competiton
 
 ```
