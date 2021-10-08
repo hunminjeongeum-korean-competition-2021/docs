@@ -1,9 +1,12 @@
 # 2021 훈민정음 한국어 음성•자연어 인공지능 경진대회
 
-- **주최**: 과학기술정보통신부
-- **주관**: NIA 한국지능정보사회진흥원
-- **운영**: Dacon
-- **후원**: Naver, KT
+### **주최**: 과학기술정보통신부
+
+### **주관**: NIA 한국지능정보사회진흥원
+
+### **운영**: Dacon
+
+### **후원**: Naver, KT
 
 ## 대회 일정
 
@@ -38,6 +41,8 @@
 
 ## 대회 관련 문서 바로가기
 
+[대회 사이트](http://aihub-competition.or.kr/hangeul)
+
 [NSML Document 바로가기](https://n-clair.github.io/vision-docs/_build/html/ko_KR/index.html)
 
 [Custom Docker Image 설명](https://github.com/hunminjeongeum-korean-competition-2021/docs/blob/main/DockerImage.md)
@@ -46,9 +51,9 @@
 
 ## 대회 별 데이터셋 설명
 
-- [문제1 문서 요약](https://github.com/hunminjeongeum-korean-competition-2021/conversation-summary/blob/main/README.md#%EB%AC%B8%EC%A0%9C-1-%EB%AC%B8%EC%84%9C%EC%9A%94%EC%95%BD-dataset-%EC%84%A4%EB%AA%85)
+- [문제1 문서 요약](https://github.com/hunminjeongeum-korean-competition-2021/dialog-summarization/blob/main/README.md#%EB%AC%B8%EC%A0%9C-1-%EB%AC%B8%EC%84%9C%EC%9A%94%EC%95%BD-dataset-%EC%84%A4%EB%AA%85)
 
-- [문제2 화자 인식](https://github.com/hunminjeongeum-korean-competition-2021/voice-recognition-performance-evaluation/blob/main/README.md#%EB%AC%B8%EC%A0%9C-4-%EC%9D%8C%EC%84%B1%EC%9D%B8%EC%8B%9D-%EC%9E%90%EC%9C%A0%EB%8C%80%ED%99%94-dataset-%EC%84%A4%EB%AA%85)
+- [문제2 화자 인식](https://github.com/hunminjeongeum-korean-competition-2021/speaker-recognition/blob/main/README.md#%EB%AC%B8%EC%A0%9C-2-%ED%99%94%EC%9E%90%EC%9D%B8%EC%8B%9D-dataset-%EC%84%A4%EB%AA%85)
 
 - [문제3 음성 인식(명령어)](https://github.com/hunminjeongeum-korean-competition-2021/voice-recognition-performance-evaluation/blob/main/README.md#%EB%AC%B8%EC%A0%9C-3-%EC%9D%8C%EC%84%B1%EC%9D%B8%EC%8B%9D-%EB%AA%85%EB%A0%B9%EC%96%B4-dataset-%EC%84%A4%EB%AA%85)
 
